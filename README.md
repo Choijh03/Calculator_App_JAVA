@@ -16,4 +16,5 @@ Simple calculation examples:
 
 ![2](https://user-images.githubusercontent.com/98497929/194689872-d8585658-ad54-42e5-a679-3dbb60c00a34.PNG)
 
+![image](https://user-images.githubusercontent.com/98497929/194689933-3dc9e34f-4b39-4b1e-b7dc-cf985da4ec63.png)
 

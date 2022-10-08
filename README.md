@@ -14,6 +14,6 @@ Simple calculation examples:
 
 ![캡처](https://user-images.githubusercontent.com/98497929/194689800-424ed218-1e16-4ed4-b499-bb2c52d9d20a.PNG)
 
-![2](https://user-images.githubusercontent.com/98497929/194689801-0a8b31e6-cf03-45e3-838e-9a6e3ac083ce.PNG)
+![2](https://user-images.githubusercontent.com/98497929/194689872-d8585658-ad54-42e5-a679-3dbb60c00a34.PNG)
 
 

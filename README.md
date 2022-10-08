@@ -7,6 +7,7 @@ It is using other libarary to handle the calcuation rather than wrting own metho
 Android View:
 
 When app starts:
+
 ![1](https://user-images.githubusercontent.com/98497929/194689794-95873306-ed44-4089-ad86-7f665ab2d881.PNG)
 
 Simple calculation examples:
